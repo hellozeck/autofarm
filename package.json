@@ -1,0 +1,11 @@
+{
+  "name": "questbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "web3": "^4.3.0"
+  },
+  "type": "module"
+}
